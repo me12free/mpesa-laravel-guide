@@ -1,9 +1,4 @@
----
 # 3. Sandbox vs Production
-
-[⬅️ Previous: 2. Prerequisites](./prerequisites.md) | [Table of Contents](../README.md#table-of-contents) | [Next: 4. STK Push Integration ➡️](./stk-push-integration.md)
-
----
 
 ## 3.1 Sandbox (Testing)
 
@@ -27,22 +22,14 @@
 
 > **Warning:** Always keep secrets and credentials out of version control. Review all security recommendations in the guide before going live.
 
----
-
 ## ⭐ Rate & React
 
 If you found this guide helpful:
 
 - [Star this repository on GitHub](https://github.com/johnekiru/mpesa-laravel-guide)
-- [Join the discussion and leave your feedback!](https://github.com/johnekiru/mpesa-laravel-guide/discussions)
+- [Join the discussion and leave your feedback!](https://github.com/me12free/mpesa-laravel-guide/discussions)
 - React with 👍 or ❤️ to let others know it’s useful!
 
 Your feedback helps improve this resource for everyone.
 
----
-
 [⬅️ Previous: 2. Prerequisites](./prerequisites.md) | [Table of Contents](../README.md#table-of-contents) | [Next: 4. STK Push Integration ➡️](./stk-push-integration.md)
-
----
-
-Need help or want to support this project? [Buy me a coffee](https://coff.ee/johnekiru7v) or [open a discussion](https://github.com/johnekiru/mpesa-laravel-guide/discussions).

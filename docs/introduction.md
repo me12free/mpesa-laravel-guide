@@ -2,8 +2,6 @@
 
 [Table of Contents](../README.md#table-of-contents)
 
----
-
 ## 1. Introduction
 
 This guide provides a step-by-step approach to integrating M-Pesa STK Push payments into Laravel applications. It is designed for both beginners and experienced developers, with a focus on security, best practices, and maintainability.
@@ -16,22 +14,14 @@ This guide provides a step-by-step approach to integrating M-Pesa STK Push payme
 
 > **Note:** For the best experience, follow the guide in order and refer to the Table of Contents as needed.
 
----
-
 ## ⭐ Rate & React
 
 If you found this guide helpful:
 
 - [Star this repository on GitHub](https://github.com/johnekiru/mpesa-laravel-guide)
-- [Join the discussion and leave your feedback!](https://github.com/johnekiru/mpesa-laravel-guide/discussions)
+- [Join the discussion and leave your feedback!](https://github.com/me12free/mpesa-laravel-guide/discussions)
 - React with 👍 or ❤️ to let others know it’s useful!
 
 Your feedback helps improve this resource for everyone.
 
----
-
 [Next: 2. Prerequisites ➡️](./prerequisites.md)
-
----
-
-Need help or want to support this project? [Buy me a coffee](https://coff.ee/johnekiru7v) or email 📧 johnewoi72@gmail.com
