@@ -1,0 +1,15 @@
+# .env (Sandbox Example)
+APP_ENV=sandbox
+MPESA_CONSUMER_KEY=your_sandbox_consumer_key
+MPESA_CONSUMER_SECRET=your_sandbox_consumer_secret
+MPESA_SHORTCODE=174379 # Sandbox shortcode
+MPESA_PASSKEY=your_sandbox_passkey
+MPESA_CALLBACK_URL=https://your-ngrok-url/api/mpesa/callback?secret=your_shared_secret
+MPESA_CALLBACK_SECRET=your_shared_secret
+
+# ---
+# To go live:
+# - Change APP_ENV to production
+# - Use your production consumer key, secret, shortcode, and passkey
+# - Update MPESA_CALLBACK_URL to your live HTTPS endpoint (with ?secret=...)
+# - Ensure your Safaricom app is set to live and credentials are active
